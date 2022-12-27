@@ -1,8 +1,6 @@
 # DataAnalystPortfolioProjects
-See below for stuff ive done
+See below for  ive done
 
-wow fancy graphs
+Vlookup in Excel
+![image](https://user-images.githubusercontent.com/68308182/209589595-bc4042ed-06cf-459f-b38f-5296ca723f95.png)
 
-
-wow data
-![image](https://user-images.githubusercontent.com/68308182/209458166-f61be65e-a2e8-43b7-abbc-ed8257679293.png)
