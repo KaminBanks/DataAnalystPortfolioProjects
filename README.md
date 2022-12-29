@@ -2,34 +2,36 @@
 See below for examples of work done in Excel, Power Pivot, Power Query, Python, Power BI, SQL, Data Analysis, Data Visualization, Data Modeling, Hypothesis Testing.
 
 Data Visualization 
-(Power BI) - Work in Progress - Stay Tuned
-(Excel) - Work in Progress - Stay Tuned
-(Python) - Work in Progress - Stay Tuned
+Power BI  
+![image](https://user-images.githubusercontent.com/68308182/209892716-f62e0f0d-9f2c-4367-b678-6519a04a643f.png)
 
-Data Analysis
-(Python) - Work in Progress - Stay Tuned
-(Excel) - Work in Progress - Stay Tuned
+(Excel) - Work in Progress - Stay Tuned  
+(Python) - Work in Progress - Stay Tuned  
 
-Data Modeling
-(Power BI) - Work in Progress - Stay Tuned
-(Excel Power Pivot) - Work in Progress - Stay Tuned
+Data Analysis  
+(Python) - Work in Progress - Stay Tuned  
+(Excel) - Work in Progress - Stay Tuned  
 
-SQL
-Work in Progress - Stay Tuned
+Data Modeling  
+(Power BI) - Work in Progress - Stay Tuned  
+(Excel Power Pivot) - Work in Progress - Stay Tuned  
 
-Power Query
-Work in Progress - Stay Tuned
+SQL  
+Work in Progress - Stay Tuned  
 
-Python
-(data transformation) - Work in Progress - Stay Tuned
+Power Query  
+Work in Progress - Stay Tuned  
+
+Python  
+(data transformation) - Work in Progress - Stay Tuned  
 
 
-Excel Formulas and Pivot Tables
+Excel Formulas and Pivot Tables  
 
-Vlookup in Excel
-![image](https://user-images.githubusercontent.com/68308182/209589595-bc4042ed-06cf-459f-b38f-5296ca723f95.png)
+Vlookup in Excel  
+![image](https://user-images.githubusercontent.com/68308182/209589595-bc4042ed-06cf-459f-b38f-5296ca723f95.png)  
 
-Index Match in Excel
-![image](https://user-images.githubusercontent.com/68308182/209590000-abb79309-e855-4248-a88f-9711a0ef00a0.png)
+Index Match in Excel  
+![image](https://user-images.githubusercontent.com/68308182/209590000-abb79309-e855-4248-a88f-9711a0ef00a0.png)  
 
-(Pivot Tables) - Work in Progress - Stay Tuned
+(Pivot Tables) - Work in Progress - Stay Tuned  
