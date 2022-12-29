@@ -13,7 +13,16 @@ Data Analysis
 (Excel) - Work in Progress - Stay Tuned  
 
 Data Modeling  
-(Power BI) - Work in Progress - Stay Tuned  
+Power BI    
+  
+Building relationships between tables  
+![image](https://user-images.githubusercontent.com/68308182/209892886-fb932ea6-cd07-4666-a552-ef434aea25e6.png)  
+  
+DAX formula for calculating a moving average using a date table and relationship  
+![image](https://user-images.githubusercontent.com/68308182/209893226-1447efed-c2ac-4c18-8707-2f753deddb0c.png)  
+
+
+
 (Excel Power Pivot) - Work in Progress - Stay Tuned  
 
 SQL  
