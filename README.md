@@ -36,8 +36,6 @@ Python
 
 
 Excel Formulas and Pivot Tables  
-  
-  ![image](https://user-images.githubusercontent.com/68308182/210658747-32a58bfb-f1d4-4111-ba71-568de898880c.png)
 
 Vlookup in Excel  
 ![image](https://user-images.githubusercontent.com/68308182/209589595-bc4042ed-06cf-459f-b38f-5296ca723f95.png)  
