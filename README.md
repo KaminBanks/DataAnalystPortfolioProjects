@@ -42,5 +42,8 @@ Vlookup in Excel
 
 Index Match in Excel  
 ![image](https://user-images.githubusercontent.com/68308182/209590000-abb79309-e855-4248-a88f-9711a0ef00a0.png)  
+  
+Common Math Formulas in Excel  
+![image](https://user-images.githubusercontent.com/68308182/210659444-ce908bed-d123-4078-9f04-a23f2e7e0dc8.png)
 
 (Pivot Tables) - Work in Progress - Stay Tuned  
