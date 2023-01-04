@@ -44,7 +44,7 @@ Index Match in Excel
 ![image](https://user-images.githubusercontent.com/68308182/209590000-abb79309-e855-4248-a88f-9711a0ef00a0.png)  
   
 Common Math Formulas in Excel  
-![image](https://user-images.githubusercontent.com/68308182/210659444-ce908bed-d123-4078-9f04-a23f2e7e0dc8.png)
+![image](https://user-images.githubusercontent.com/68308182/210663621-eec3e725-aafb-485a-b21a-24391c65b109.png)
   
 More Advanced Formulas in Excel  
 ![image](https://user-images.githubusercontent.com/68308182/210662426-6fa27d67-915f-4d00-95f0-81af2bb1d43e.png)
