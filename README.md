@@ -1,7 +1,7 @@
 # DataAnalystPortfolioProjects
 See below for examples of work done in Excel, Power Pivot, Power Query, Python, Power BI, SQL, Data Analysis, Data Visualization, Data Modeling, Hypothesis Testing.
 
-Data Visualization 
+Data Visualization  
 Power BI  
 ![image](https://user-images.githubusercontent.com/68308182/209892716-f62e0f0d-9f2c-4367-b678-6519a04a643f.png)
 
