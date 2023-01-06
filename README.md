@@ -49,7 +49,7 @@ Common Math Formulas in Excel
 More Advanced Formulas in Excel  
 ![image](https://user-images.githubusercontent.com/68308182/210662426-6fa27d67-915f-4d00-95f0-81af2bb1d43e.png)
   
-This example showcases one of the more complex excel formulas that i've created which creates an id for a project work breakdown structure using only one input for the step "level" while referencing the previous step to find which value to assign.
+This example showcases one of the more complex excel formulas that i've created which creates the ID for a project work breakdown structure using only one input for the step "level" while referencing the previous ID to find which value to assign. This is especially useful for when you need to add new items which requires rows to be inserted and has the ID update automatically. This is a project management tool.  
 ![image](https://user-images.githubusercontent.com/68308182/210662853-8b18b8fb-f3a2-4047-a13f-55e95df19020.png)
 
 (Pivot Tables) - Work in Progress - Stay Tuned  
