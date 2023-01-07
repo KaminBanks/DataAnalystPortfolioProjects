@@ -53,5 +53,5 @@ This example showcases one of the more complex excel formulas that i've created 
 ![image](https://user-images.githubusercontent.com/68308182/210662853-8b18b8fb-f3a2-4047-a13f-55e95df19020.png)
 
 (Pivot Tables) - Work in Progress - Stay Tuned  
-Simple pivot table showing total, maximum, and average of the sales column for each sales rep and differentiating between managers. 
+Simple pivot table showing total, maximum, and average of the sales column for each sales rep and manager. 
 ![image](https://user-images.githubusercontent.com/68308182/211168002-0b80fae7-66c2-4965-86f0-ddc8acb68311.png)
