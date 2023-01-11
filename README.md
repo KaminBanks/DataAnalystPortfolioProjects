@@ -3,7 +3,7 @@ See below for examples of work done in Excel, Power Pivot, Power Query, Python, 
 
 Data Visualization  
 Power BI  
-This report was built using Power BI and has several tables in the data model utilizing relationships and measures to calculate moving averages of applicable metrics. This report is filterable by department. I have implemented several such reports for various departments and use cases and have used a gateway to set up a periodic automatic refresh of the data.    
+This report was built using Power BI and has several tables in the data model utilizing relationships and measures to calculate moving averages. This report is filterable by department. I have implemented several such reports for various departments and use cases and have used a gateway to set up a periodic automatic refresh of the data.    
 ![image](https://user-images.githubusercontent.com/68308182/209892716-f62e0f0d-9f2c-4367-b678-6519a04a643f.png)
 
 Excel  
