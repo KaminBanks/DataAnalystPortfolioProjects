@@ -3,10 +3,11 @@ See below for examples of work done in Excel, Power Pivot, Power Query, Python, 
 
 Data Visualization  
 Power BI  
+This report was built using Power BI and has several tables in the data model utilizing relationships and measures to calculate moving averages of applicable metrics. This report is filterable by department. I have implemented several such reports for various departments and use cases and have used a gateway to set up a periodic automatic refresh of the data.    
 ![image](https://user-images.githubusercontent.com/68308182/209892716-f62e0f0d-9f2c-4367-b678-6519a04a643f.png)
 
 Excel  
-This report was created using a Power BI data model joining several tables with relationships and individual pivot tables for each displayed chart. I have created, maintained, and distributed several dozen excel reports with this method.  
+This report was created using a Power Pivot data model joining several tables with relationships and individual pivot tables for each displayed chart. I have created, maintained, and distributed several dozen excel reports with this method.  
 ![image](https://user-images.githubusercontent.com/68308182/211895925-76f0c23f-c81c-4eb6-9781-cf431fc50afc.png)
 
 (Python) - Work in Progress - Stay Tuned  
