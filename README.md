@@ -5,7 +5,10 @@ Data Visualization
 Power BI  
 ![image](https://user-images.githubusercontent.com/68308182/209892716-f62e0f0d-9f2c-4367-b678-6519a04a643f.png)
 
-(Excel) - Work in Progress - Stay Tuned  
+Excel  
+This report was created using a Power BI data model joining several tables with relationships and individual pivot tables for each displayed chart. I have created, maintained, and distributed several dozen excel reports with this method.  
+![image](https://user-images.githubusercontent.com/68308182/211895925-76f0c23f-c81c-4eb6-9781-cf431fc50afc.png)
+
 (Python) - Work in Progress - Stay Tuned  
 
 Data Analysis  
@@ -23,7 +26,13 @@ DAX formula for calculating a moving average using a date table and relationship
 
 
 
-(Excel Power Pivot) - Work in Progress - Stay Tuned  
+Excel Power Pivot  
+Building relationships between tables  
+![image](https://user-images.githubusercontent.com/68308182/211897509-5ca9d6d5-03e9-4466-bd88-6985119accfc.png)
+  
+Using columns from another table for calculated column (this is comparable to doing a vlookup or a SQL join)  
+![image](https://user-images.githubusercontent.com/68308182/211897789-a75b368b-7f54-474a-896c-3cfca251a2fc.png)
+
 
 SQL  
 Work in Progress - Stay Tuned  
