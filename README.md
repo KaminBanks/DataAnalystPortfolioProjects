@@ -66,3 +66,14 @@ This example showcases one of the more complex excel formulas that i've created 
 ### Pivot Table  
 Simple pivot table showing total, maximum, and average of the sales column for each sales rep and manager with a date slicer for easily filtering to different date ranges. 
 ![image](https://user-images.githubusercontent.com/68308182/211168002-0b80fae7-66c2-4965-86f0-ddc8acb68311.png)
+
+### Excel Paginated Report + Data Validation + Advanced Formula  
+Output of print to pdf for filled out form   
+![image](https://user-images.githubusercontent.com/68308182/212389698-19a5a8ce-bd8e-4b3c-a4b1-b947a48693af.png)
+  
+This form uses data validation from other tables to create drop down lists  
+![image](https://user-images.githubusercontent.com/68308182/212389860-230cb4d5-9e29-4562-9f61-361fa35c1f79.png)
+  
+The data validation ranges are referenced indirectly where the indirect reference is itself a formula that "builds" the range to reference based on a combination of formulas.  
+![image](https://user-images.githubusercontent.com/68308182/212390318-10f40cff-6c70-4c76-bf86-b76a9608ec5f.png)
+
