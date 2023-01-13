@@ -74,6 +74,10 @@ Output of print to pdf for filled out form
 This form uses data validation from other tables to create drop down lists  
 ![image](https://user-images.githubusercontent.com/68308182/212389860-230cb4d5-9e29-4562-9f61-361fa35c1f79.png)
   
+The drop down data validation references the other drop down menu to reduce the number of options the user has to select from for convenience
+![image](https://user-images.githubusercontent.com/68308182/212391562-ed914561-77cf-4181-b756-035c3a6c1df3.png)
+
+  
 The data validation ranges are referenced indirectly where the indirect reference is itself a formula that "builds" the range to reference based on a combination of formulas.  
 ![image](https://user-images.githubusercontent.com/68308182/212390318-10f40cff-6c70-4c76-bf86-b76a9608ec5f.png)
 
